@@ -22,6 +22,7 @@ Usage:
 
 > [!Note]
 > This is a basic interface demo for testing and visualize the model with tester images
+> *Demostrational Purpose Only*
 
 > [!Warning]
 > This version currently works well with YOLO Models from Ultralytics ( Thank you for making user-friendly models )
