@@ -1,17 +1,20 @@
 # TkInter GUI for Model Viewer
 
-## Libraries
-- tkinter 
-- tkkbootstrap
-- PIL
-- OpenCV
+This is a fun mini project that allow you to view the dectection result of your model. Currently it works only uploading images folder, dedection, and display the results.
+To see each individual results, click on the image and (for now) there will be some labels, such as object label and confidence value (in percentage).
 
-> !Note
+## Libraries
+![Static Badge](https://img.shields.io/badge/tk_inter-blue)
+![Static Badge](https://img.shields.io/badge/tkk_bootstrap-orange)
+![Static Badge](https://img.shields.io/badge/PIL-pink)
+![Static Badge](https://img.shields.io/badge/OpenCV-green)
+
+> [!Note]
 > This is a basic interface demo for testing and visualize the model with tester images
 
-> !Warning
+> [!Warning]
 > This version currently works well with YOLO Models from Ultralytics ( Thank you for making user-friendly models )
 
 ### Current Looks:
-
-### Result:
+<img width="1512" height="944" alt="Screenshot 2025-08-05 at 2 30 39 PM" src="https://github.com/user-attachments/assets/f15deb3f-554b-4203-9790-b8ddfb0aa1c9" />
+<img width="1378" height="944" alt="Screenshot 2025-08-05 at 2 31 31 PM" src="https://github.com/user-attachments/assets/db9ea5a2-f77d-43e8-ad92-62d4a143b3b6" />
