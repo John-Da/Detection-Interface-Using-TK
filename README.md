@@ -9,6 +9,13 @@ To see each individual results, click on the image and (for now) there will be s
 ![Static Badge](https://img.shields.io/badge/PIL-pink)
 ![Static Badge](https://img.shields.io/badge/OpenCV-green)
 
+Usage:
+- upload the an image folder
+- Put your best model weight in the Weight Folder
+- run the detection viewer app file
+
+- *If you checked the save option, it will automatically save them in the Download.
+
 > [!Note]
 > This is a basic interface demo for testing and visualize the model with tester images
 
