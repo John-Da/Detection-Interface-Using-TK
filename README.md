@@ -1,7 +1,7 @@
 # TkInter GUI for Model Viewer
 
 This is a fun mini project that allow you to view the dectection result of your model. Currently it works only uploading images folder, dedection, and display the results.
-To see each individual results, click on the image and (for now) there will be some labels, such as object label and confidence value (in percentage).
+To see each individual results, click on the image and (for now) there will be some labels, such as object label and confidence value (in percentage). "*Demostrational Purpose Only*"
 
 ## Libraries
 ![Static Badge](https://img.shields.io/badge/Python-V3.12-blue)
@@ -22,7 +22,6 @@ Usage:
 
 > [!Note]
 > This is a basic interface demo for testing and visualize the model with tester images
-> *Demostrational Purpose Only*
 
 > [!Warning]
 > This version currently works well with YOLO Models from Ultralytics ( Thank you for making user-friendly models )
