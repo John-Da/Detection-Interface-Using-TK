@@ -3,6 +3,8 @@
 This is a fun mini project that allow you to view the dectection result of your model. Currently it works only uploading images folder, dedection, and display the results.
 To see each individual results, click on the image and (for now) there will be some labels, such as object label and confidence value (in percentage).
 
+<br>
+
 ## Libraries
 ![Static Badge](https://img.shields.io/badge/Python-V3.12-blue)
 ![Static Badge](https://img.shields.io/badge/tk_inter-lightblue)
@@ -10,12 +12,15 @@ To see each individual results, click on the image and (for now) there will be s
 ![Static Badge](https://img.shields.io/badge/PIL-pink)
 ![Static Badge](https://img.shields.io/badge/OpenCV-green)
 
+<br>
+
 Usage:
 - upload the an image folder
 - Put your best model weight in the Weight Folder
 - run the detection viewer app file
+- *If you checked the save option, it will automatically save them in the Download*.
 
-- *If you checked the save option, it will automatically save them in the Download.
+<br>
 
 > [!Note]
 > This is a basic interface demo for testing and visualize the model with tester images
