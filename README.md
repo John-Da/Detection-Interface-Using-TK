@@ -4,7 +4,7 @@ This is a fun mini project that allow you to view the dectection result of your 
 To see each individual results, click on the image and (for now) there will be some labels, such as object label and confidence value (in percentage). "*Demostrational Purpose Only*"
 
 ## Libraries
-![Static Badge](https://img.shields.io/badge/YOLO-V8n-purple)
+
 ![Static Badge](https://img.shields.io/badge/Python-V3.12-blue)
 ![Static Badge](https://img.shields.io/badge/tk_inter-lightblue)
 ![Static Badge](https://img.shields.io/badge/tkk_bootstrap-orange)
