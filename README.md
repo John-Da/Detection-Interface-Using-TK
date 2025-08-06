@@ -17,7 +17,7 @@ Usage:
 - upload the an image folder
 - Put your best model weight in the Weight Folder
 - run the detection viewer app file
-- *If you checked the save option, it will automatically save them in the Download*.
+(*If you checked the save option, it will automatically save them in the Download*.)
 
 <br>
 
