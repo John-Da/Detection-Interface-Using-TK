@@ -30,7 +30,7 @@ To see each individual results, click on the image and (for now) there will be s
 > [!Warning]
 > This version currently works well with YOLO Models from Ultralytics ( Thank you for making user-friendly )
 
-DEMO - used Model <a href="#" title="YOLOV8n"><img alt="YOLOV8n" src="https://img.shields.io/badge/YOLO-V8n-purple" height="30" align="center"/></a>
+### DEMO - used Model <a href="#" title="YOLOV8n"><img alt="YOLOV8n" src="https://img.shields.io/badge/YOLO-V8n-purple" height="30" align="center"/></a>
 
 <img width="1512" height="944" alt="Screenshot 2025-08-05 at 2 30 39 PM" src="https://github.com/user-attachments/assets/f15deb3f-554b-4203-9790-b8ddfb0aa1c9" />
 <img width="1378" height="944" alt="Screenshot 2025-08-05 at 2 31 31 PM" src="https://github.com/user-attachments/assets/db9ea5a2-f77d-43e8-ad92-62d4a143b3b6" />
