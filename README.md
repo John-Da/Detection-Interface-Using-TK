@@ -6,16 +6,16 @@ To see each individual results, click on the image and (for now) there will be s
 </p>
   
 <p>
-  
-![Static Badge](https://img.shields.io/badge/Python-V3.12-blue)
-![Static Badge](https://img.shields.io/badge/tk_inter-lightblue)
-![Static Badge](https://img.shields.io/badge/tkk_bootstrap-orange)
-![Static Badge](https://img.shields.io/badge/PIL-pink)
-![Static Badge](https://img.shields.io/badge/OpenCV-green)
-
+<a href="#" title="Python"><img alt="Python" src="https://img.shields.io/badge/Python-V3.12-blue" height="150" align="center"/></a>
+<a href="#" title="Tk_Inter"><img alt="Tk_Inter" src="https://img.shields.io/badge/tk_inter-lightblue" height="150" align="center"/></a>
+<a href="#" title="TTK_Bootstrap"><img alt="TTK_Bootstrap" src="https://img.shields.io/badge/tkk_bootstrap-orange" height="150" align="center"/></a>
+<a href="#" title="PIL"><img alt="PIL" src="https://img.shields.io/badge/PIL-pink" height="150" align="center"/></a>
+<a href="#" title="OpenCV"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-green" height="150" align="center"/></a>
 </p>
 
 </div>
+
+<br>
 
 | Usage                                                                                                      | Current Features                                         | On Process                             |
 | :--------------------------------------------------------------------------------------------------------- | :------------------------------------------------------- | :------------------------------------- |
