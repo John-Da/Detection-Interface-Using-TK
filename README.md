@@ -28,7 +28,8 @@ To see each individual results, click on the image and (for now) there will be s
 > This is a basic interface demo for testing and visualize the model with tester images
 
 > [!Warning]
-> This version currently works well with YOLO Models from Ultralytics ( Thank you for making user-friendly )
+> This version currently works well with YOLO Models from Ultralytics [ *Installation Required* ] <br>
+> ( Thank you for making user-friendly )
 
 ### DEMO - used Model <a href="#" title="YOLOV8n"><img alt="YOLOV8n" src="https://img.shields.io/badge/YOLO-V8n-purple" height="30" align="center"/></a>
 
